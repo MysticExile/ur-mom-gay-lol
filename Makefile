@@ -36,6 +36,9 @@ SOURCES		:=	source
 DATA		:=	data
 INCLUDES	:=	include
 EXEFS_SRC	:=	exefs_src
+APP_TITLE	:= ur-mom-gay-lol
+APP_AUTHOR := MysticExile
+APP_VERSION := 1.1
 #ROMFS	:=	romfs
 
 #---------------------------------------------------------------------------------
